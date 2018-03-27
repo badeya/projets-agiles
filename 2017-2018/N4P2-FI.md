@@ -12,24 +12,17 @@ Description du projet
 * git android :
 
 # Équipe 2
-Entre ed et vous. 
-Entre ed et vous est un site web conçu afin de mettre en lien des seniors et des étudiants, afin que ces derniers puissent leur rendre des services (conduite, courses, aide en informatique, etc...) contre une rémunération de la part du site.
+
+Description du projet
 
 ## Équipe
 
-* PASSARD Martin
-* JORDAO Ninon
-* BELEMBERT Melvin
-* MACHTA Ossama
-* BOUCHERY Cyril
-* ABLAIN Lucas
-* HANQUEZ Cyril
-* BROGNIART Patrick
+* 
 
 ## Resources
 
-* git serveur : https://git-iut.univ-lille1.fr/entreedetvous/entre_ed_et_vous_rest.git
-* git android : https://git-iut.univ-lille1.fr/entreedetvous/entre_ed_et_vous_android.git
+* git serveur :
+* git android :
 
 # Équipe 3
 
@@ -44,20 +37,21 @@ Description du projet
 * git serveur :
 * git android :
 
-# Équipe 4 Izyfree
+# Équipe 4
 
-Site web et application mobile pour freelances et entreprises
+Izyfree: site web et application mobile pour freelances et entreprises
 
 ## Équipe
 
-* Sarah BERTIN
-* Florent CADET
-* Marin DUBUIS
-* Lucas FRESIERS
-* Florian LESTIENNE
-* Valentin LUCAS 
-* Gaspard MATHON
-* Guillaume RENAUD 
+* 
+Sarah BERTIN
+Florent CADET
+Marin DUBUIS
+Lucas FRESIERS
+Florian LESTIENNE
+Valentin LUCAS 
+Gaspard MATHON
+Guillaume RENAUD 
 
 ## Resources
 
@@ -135,18 +129,33 @@ Description du projet
 * git serveur :
 * git android :
 
-# Équipe 9
+# Équipe 9 : Neodrone
 
-Description du projet
+ Notre projet est la réponse aux besoins des cliens de l'entreprise:
+                        - Création d'une plateforme de compte client
+                        - Développement d'un outil de suivi de l'avancement de la mission
+                        - Un nouvel outil de communication: une application sur Android pour toujours avoir accès à ses           
+                          informations
+                        - Possibilité de récupérer les photographies directement sur le site internet ( www.neodrone.fr )
 
 ## Équipe
 
-* 
+* BADEY Arthur
+* DENECE Simon
+* DESCAMPS Gauthier
+* GRANDI Francesca
+* LICOUR Samy
+* POTTIER Pauline (GEA)
+* ROHAERT Jérôme
+* SALVADOR Clément
+* SENGES  Charles
+
 
 ## Resources
 
-* git serveur :
-* git android :
+* git serveur : https://git-iut.univ-lille1.fr/sengesc/neodrone_serveur.git
+* git android : https://git-iut.univ-lille1.fr/grandif/Neodrone_Android.git
+* Docker : 35.59.171.5
 
 # Équipe 10
 
